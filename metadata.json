@@ -1,0 +1,6 @@
+{
+  "name": "Adarsh Vidya Niketan Public School",
+  "description": "Official school website with live interactive Notice Board, circular announcements, academic curriculum, admission enquiry, and admin management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
